@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Protest+Revolution&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #ecf2ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: "Hanken Grotesk", sans-serif;
+}
+
+.container{
+  width:736px;
+  height: 512px;
+  background-color: white;
+  border-radius: 32px;
+  display: flex;
+}

@@ -1,0 +1,115 @@
+.summery{
+    font-weight: 500;
+    font-size: 24px;
+    color:#303B59;
+}
+.second{
+    padding: 0 35px;
+    
+}
+.flashed{
+    width: 288px;
+    height: 56px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)),
+    linear-gradient(0deg, #FF5555, #FF5555);
+    border-radius:12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+}
+.but{
+    width: 288px;
+    height: 56px;
+    background: linear-gradient(180deg, #7755FF 0%, #6943FF 0.01%, #2F2CE9 100%);
+    border-radius: 128px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    color:white;
+}
+.fleshChild{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:10px;
+}
+.fleshChild p{
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 23px;
+   color:#FF5555;
+}
+.point{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    color:#303B59;
+}
+.point span{
+    color:#9799a8;
+}
+.brane{
+    width: 288px;
+    height: 56px;border-radius:12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)),
+    linear-gradient(0deg, #FFB21E, #FFB21E);
+    margin-top: 15px;
+}
+.memori{
+    display: flex;
+    gap:10px;
+}
+.memori p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23px;
+    color:#FFB21E;
+}
+.verb{
+    width: 288px;
+    height: 56px;border-radius:12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)),
+    linear-gradient(0deg, #00BB8F, #00BB8F);
+    margin-top: 15px;
+}
+.verbalIcon{
+    display: flex;
+    gap:10px;
+}
+.verbalIcon p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23px;
+    color:#00BB8F;
+}
+.visualIcon{
+    width: 288px;
+    height: 56px;border-radius:12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)),
+    linear-gradient(0deg, #1125D6, #1125D6);
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.visible{
+    display: flex;
+    gap:10px;
+}
+.visible p{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 23px;
+    color:#1125D6;
+}
